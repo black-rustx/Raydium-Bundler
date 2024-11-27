@@ -76,4 +76,8 @@ Start optimizing your **Solana transactions** with the **Solana Raydium Bundler*
 
 ---
 
+## 📞 Author
+
+Telegram: [@g0drlc](https://t.me/g0drlc)
+
 For **technical queries**, feel free to reach out via **@g0drlc** on Telegram. 📩
